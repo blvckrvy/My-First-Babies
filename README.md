@@ -1,4 +1,4 @@
-# Blackman Entertainment Little Apps
+# My first Little Apps
 
 The few first applications made by blvckrvy.
 
